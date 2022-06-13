@@ -1,12 +1,12 @@
 import React from 'react';
 import ReactDOM  from 'react-dom';
-import App from './App';
+import Greeting from './App';
 
 
 const App = () => {
   return (
     <>
-      <App />
+      <Greeting />
     </>
   );
 }
